@@ -161,3 +161,25 @@ a:hover {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+.bar{
+  height: 5vh;
+  background: #000000;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0px 10px;
+}
+.dot{
+  height: 2vh;
+  width: 2vh;
+  border-radius: 100%;
+}
+.yellow{
+  background: #F8F988;
+}
+.green{
+  background: #03C988;
+}
+.red{
+  background: #FF0032;
+}
